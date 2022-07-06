@@ -1,0 +1,8 @@
+{
+  "name": "Dominio Medios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b7477fa9"
+}
